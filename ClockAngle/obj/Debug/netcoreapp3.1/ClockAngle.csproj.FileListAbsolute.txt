@@ -1,0 +1,14 @@
+C:\Users\Zeyn Schweyk\Documents\MyProjects\ClockAngle\ClockAngle\bin\Debug\netcoreapp3.1\ClockAngle.exe
+C:\Users\Zeyn Schweyk\Documents\MyProjects\ClockAngle\ClockAngle\bin\Debug\netcoreapp3.1\ClockAngle.deps.json
+C:\Users\Zeyn Schweyk\Documents\MyProjects\ClockAngle\ClockAngle\bin\Debug\netcoreapp3.1\ClockAngle.runtimeconfig.json
+C:\Users\Zeyn Schweyk\Documents\MyProjects\ClockAngle\ClockAngle\bin\Debug\netcoreapp3.1\ClockAngle.runtimeconfig.dev.json
+C:\Users\Zeyn Schweyk\Documents\MyProjects\ClockAngle\ClockAngle\bin\Debug\netcoreapp3.1\ClockAngle.dll
+C:\Users\Zeyn Schweyk\Documents\MyProjects\ClockAngle\ClockAngle\bin\Debug\netcoreapp3.1\ClockAngle.pdb
+C:\Users\Zeyn Schweyk\Documents\MyProjects\ClockAngle\ClockAngle\obj\Debug\netcoreapp3.1\ClockAngle.csproj.AssemblyReference.cache
+C:\Users\Zeyn Schweyk\Documents\MyProjects\ClockAngle\ClockAngle\obj\Debug\netcoreapp3.1\ClockAngle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeyn Schweyk\Documents\MyProjects\ClockAngle\ClockAngle\obj\Debug\netcoreapp3.1\ClockAngle.AssemblyInfoInputs.cache
+C:\Users\Zeyn Schweyk\Documents\MyProjects\ClockAngle\ClockAngle\obj\Debug\netcoreapp3.1\ClockAngle.AssemblyInfo.cs
+C:\Users\Zeyn Schweyk\Documents\MyProjects\ClockAngle\ClockAngle\obj\Debug\netcoreapp3.1\ClockAngle.csproj.CoreCompileInputs.cache
+C:\Users\Zeyn Schweyk\Documents\MyProjects\ClockAngle\ClockAngle\obj\Debug\netcoreapp3.1\ClockAngle.dll
+C:\Users\Zeyn Schweyk\Documents\MyProjects\ClockAngle\ClockAngle\obj\Debug\netcoreapp3.1\ClockAngle.pdb
+C:\Users\Zeyn Schweyk\Documents\MyProjects\ClockAngle\ClockAngle\obj\Debug\netcoreapp3.1\ClockAngle.genruntimeconfig.cache
